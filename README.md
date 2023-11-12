@@ -8,6 +8,10 @@
   <a href="#" target="_blank">Layouts</a>
 </p>
 
+<p align="center">
+  <img src=".github/preview.png" alt="" />
+</p>
+
 ## Tecnologias
 
 Projeto desenvolvido em:
