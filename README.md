@@ -7,3 +7,20 @@
   <a href="#" target="_blank">Projetos</a>
   <a href="#" target="_blank">Layouts</a>
 </p>
+
+## Tecnologias
+
+Projeto desenvolvido em:
+-- HTML
+-- CSS
+-- Figma
+-- javaScript
+-- Git e GitHub
+
+## memo: Licença
+
+Esse projeto esta sob a licença MIT.
+
+<p align="center">
+Feito com ❤ por INNEO.ORG
+</p>
